@@ -1,4 +1,5 @@
 # DataMiningChallenge2020
+You can download data from the link below, it was too heavy to upload for Github
 My solution for DataMining course challenge | https://www.kaggle.com/c/datamining2020
 
 ## The Challenge
